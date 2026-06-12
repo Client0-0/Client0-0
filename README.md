@@ -22,7 +22,7 @@ class Madhaesh:
         self.location   = "Chennai, Tamil Nadu "
         self.email      = "madhaeshparasu@gmail.com"
         self.degree     = "B.Tech CSE (AI & DS) — SASTRA University"
-        self.cgpa       = 8.635
+        self.cgpa       = 8.6778
 
         self.experience = [
             "Upcoming AI Engineer @ ThirdWave, Japan ",
@@ -144,7 +144,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-|  B.Tech — CSE (AI & DS) | SASTRA University | 2026 | 8.635 / 10 |
+|  B.Tech — CSE (AI & DS) | SASTRA University | 2026 | 8.6778 / 10 |
 | Class 12 — CBSE | Maharishi Vidya Mandir | 2022 | 90.2% |
 | Class 10 — CBSE | Maharishi Vidya Mandir | 2020 | 93.4% |
 
